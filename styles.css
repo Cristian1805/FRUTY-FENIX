@@ -188,7 +188,7 @@
   .social p {
     text-align: center;
     font-size: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
   }
   .links {
     display: flex;
@@ -229,10 +229,10 @@
   }
   
   .footer {
-    background: #ffffff;
+    background: #ffffff; 
     color: #000000; 
     font-size: 12px;
-    padding: 20px 0;
+    padding: 20px 0; 
     text-align: center; 
     font-size: 1rem;
     padding-bottom: 20px;
@@ -386,8 +386,16 @@
     margin: 10px;
     padding: 20px;
   }
+
+  .mapa {
+    margin: 50px;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+  } 
+
   
-  .content .form input[type="text"]:nth-child(2) {
+  /* .content .form input[type="text"]:nth-child(2) {
     width: 46%;
     margin: 0;
     padding: 20px;
@@ -409,7 +417,7 @@
     padding: 20px 30px;
     color: #ffffff;
     background-color: #115dff; /* ENVIAR MENSAJE */
-    border-radius: 6px;
+    /* border-radius: 6px;
     margin: 10px;
     cursor: pointer;
     font-size: 16px;
@@ -418,6 +426,5 @@
   input[type="text"]:focus, textarea:focus {
     border: 1px solid #115dff;
     box-shadow: 0px 0px 2px #115dff;
-  }
-  
-  
+  } */ /* */ 
+
